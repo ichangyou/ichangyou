@@ -1,8 +1,7 @@
 - 👋 Hi, I’m changyou
 - 👀 I’m interested in traveling and climbing mountains.
 - 🌱 I’m currently learning iOS、Java、JavaScript、VUE etc...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 you can find me at here: https://twitter.com/ijoeychang 
 
 <!---
 ichangyou/ichangyou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
