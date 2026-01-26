@@ -1,6 +1,6 @@
 - 👋 Hi, I’m changyou
 - 👀 I’m interested in traveling and climbing mountains.
-- 🌱 I’m currently learning iOS、Java、JavaScript、Vue etc...
+- 🌱 Learning and building with **iOS, Java, JavaScript, and Vue** — focused on software I truly enjoy.
 - 📫 you can find me at here: https://twitter.com/ijoeychang 
 
 <!---
